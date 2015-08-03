@@ -1,13 +1,13 @@
 # Site settings
-title: Clean Blog
+title: Entropy
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
+email: daniel.anechitoaie@gmail.com
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: ""
 url: "http://danechitoaie.github.io"
 twitter_username: daniels0xff
 github_username:  danechitoaie
-facebook_username:  IronSummitMedia
+facebook_username:  daniel.anechitoaie
 
 # Build settings
 markdown: kramdown
