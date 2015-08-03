@@ -2,12 +2,12 @@
 title: Entropy
 header-img: img/home-bg.jpg
 email: daniel.anechitoaie@gmail.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "You always know a little more than they think you do, and a little less than you'd like to."
 baseurl: ""
-url: "http://danechitoaie.github.io"
-twitter_username: daniels0xff
-github_username:  danechitoaie
-facebook_username:  daniel.anechitoaie
+url: "http://daniel.anechitoaie.ro"
+twitter_username: danechitoaie
+github_username: danechitoaie
+facebook_username: daniel.anechitoaie
 
 # Build settings
 markdown: kramdown
